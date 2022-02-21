@@ -40,7 +40,7 @@ gasLevelIndicator = gasLevelGauge()
 
 def gasLevelAlert():
     gasStations = ["Shell","BP","Citgo","Circle K","Mobil","Speedway","Marathon","Love's","Meijer","Costco","Sunoco"]
-    miles = random.randint(1,25)
+    miles = round(random.uniform(1,25),1)
     if gasLevelIndicator == "Empty":
 
         print("***WARNING YOU ARE ON EMPTY***\n You have ran out of gas \n Calling Emergency contact")
