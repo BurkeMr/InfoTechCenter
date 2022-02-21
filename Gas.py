@@ -13,7 +13,7 @@ def gasLevelGauge():
 
 # Varible calls the value of gasLevelGauge function
 
-gasLevelIndicator = gasLevelGauge
+gasLevelIndicator = gasLevelGauge()
 
 
 # Create If-ELIF-ELSE statements using the comparative operators == Equal to in order to display gas level messages
