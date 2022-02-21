@@ -1,5 +1,11 @@
+# programmer: Austin Burkee
+# date: 2.21.2022
+# Version: 1.1
 
-# WELCOME BRANCH 
+
+
+
+# WELCOME BRANCH
 # Codename Hornet
 # https://realpython.com/python-sleep/#adding-a-python-sleep-call-with-timesleep
 
